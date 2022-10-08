@@ -1,0 +1,35 @@
+export const products = [
+    {
+      id: 1,
+      title: "Espresso",
+      description: "Black",
+      price: "35",
+      img: "https://www.caffesociety.co.uk/assets/recipe-images/espresso-small.jpg",
+      quantity: 0,
+      milk: 0,
+      cream: 0,
+    },
+    {
+      id: 2,
+      title: "Cappuccino",
+      description: "Cream",
+      price: "35",
+      img: "https://www.caffesociety.co.uk/assets/recipe-images/cappuccino-small.jpg",
+      quantity: 0,
+      milk: 0,
+      cream: 0,
+      latte: 0,
+    },
+    {
+      id: 3,
+      title: "Latte",
+      description: "White",
+      price: "35",
+      img: "https://www.caffesociety.co.uk/assets/recipe-images/latte-small.jpg",
+      quantity: 0,
+      milk: 0,
+      cream: 0,
+      latte: 0,
+    },
+  ];
+  
